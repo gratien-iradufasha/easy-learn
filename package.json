@@ -1,0 +1,14 @@
+{
+  "name": "easylearn",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Easy Learn: digital literacy lessons in Kinyarwanda, English and French for web, mobile and USSD.",
+  "scripts": {
+    "setup": "cd backend && npm install && cd ../frontend && npm install",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "start": "cd backend && npm start",
+    "test": "cd backend && npm test"
+  }
+}

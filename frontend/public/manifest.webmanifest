@@ -1,0 +1,12 @@
+{
+  "name": "Easy Learn",
+  "short_name": "Easy Learn",
+  "description": "Learn digital skills step by step in Kinyarwanda, English and French.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbf7ef",
+  "theme_color": "#0b6e4f",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
